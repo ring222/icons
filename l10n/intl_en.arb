@@ -1,0 +1,290 @@
+{
+    "@@locale": "en",
+    "appName": "NFT Wallet",
+    "tabWallet": "Wallet",
+    "tabMarket": "NFT",
+    "tabDAPP": "DAPP",
+    "tabFeed": "Feed",
+    "tabMine": "Mine",
+
+    "nftCardTradeTime": "Trade",
+    "nftCurrentPrice" : "Price",
+
+    "nftMarketAuctionTitle" :"On sale",
+    "nftWalletIdentity": "Identity",
+    "nftWalletTotalIncoming": "Total",
+    "nftWalletTotalWithdraw": "Balance",
+    "nftWalletBtnWithdraw": "Withdraw",
+
+    
+    
+    "mineMainItemAccount": "Accounts",
+    "mineMainItemContacts": "Contacts",
+    "mineMainItemNetwork": "Network Settings",
+    "mineMainItemLanguage": "Language",
+    "mineMainItemCurrency": "Currency",
+    "mineMainItemSecurity": "Security",
+
+    "mineAccountPageEmpty": "Empty",
+
+    "mineAccountAddPageTitle": "Add account",
+    "mineAccountAddPageTabCreate": "Create ",
+    "mineAccountAddPageTabImport": "Import from...",
+
+    "mineAccountImportPageFromPrivateKey": "Private key",
+    "mineAccountImportPageFromMnemonic": "Mnemonic",
+
+   
+    "mineAccountImportPageFromPrivateKeyDescription": "Import your wallet with the private key.  Private keys, mnemonics, and passwords will not be sent to the network.",
+    "mineAccountImportPageFromPrivateKeyPlaceholder": "Please fill in the private key you want to import, this data will not be sent to the network",
+
+    "mineAccountImportPageFromMnemonicDescription": "Import your wallet with the mnemonic.  Private keys, mnemonics, and passwords will not be sent to the network.",
+    "mineAccountImportPageFromMnemonicPlaceholder": "Please fill in the mnemonic you want to import, this data will not be sent to the network",
+
+    "mainAccountBtnImport": "Import",
+    "mainAccountBtnCreate": "Create",
+
+    "mineAccountImportMnemonicError": "Invalid mnemonic format",
+    "mineAccountImportPrivateError": "Invalid private key",
+    "mineAccountImportNameError": "Invalid account name",
+
+    "mineAccountImportMnemonicSuccess": "Mnemonic import success",
+    "mineAccountImportPrivateSuccess": "Private key import success",
+    "mineAccountImportNameLabel": "Account name",
+
+
+    "mineAccountCreateNotice": "WARNING",
+    "mineAccountCreateNoticeBtn": "I understand",
+    "mineAccountCreateNoticeContent": "1. I know and understand that all the assets in the eNFT are stored in the mobile phone, not the company that developed the eNFT. \n2. I know and understand that according to the design principle of eNFT, eNFT does not store the user's wallet password. If you forget the wallet password, you can only restore the wallet using the mnemonic you backed up. If I forget the mnemonic, then I will lose all the assets in the eNFT. \n3. I know and understand that when this APP is deleted or logged in at a new device manufacturer, or when the wallet password is forgotten, all the assets in the eNFT can only be retrieved and restored through the mnemonic I backed up. \n4. I know and understand that I am solely responsible for the loss of assets caused by my failure to keep the wallet password and mnemonic, and the loss of assets caused by forgetting the wallet password or mnemonic, and has nothing to do with eNFT. \n5. I know and understand that eNFT's customer service will not require users to provide any private keys or mnemonics. If the customer service asks for a key or a mnemonic phrase, please be vigilant.",
+
+
+    "createWalletBackupWarning1": "Obtaining a mnemonic equals ownership of wallet assets!  ",
+    "createWalletBackupWarningContent" :"The mnemonic is composed of English letters, and once lost, it cannot be retrieved. \nThe next step on this page will verify your backup mnemonics, please copy them down in order and keep them safe.",
+    "createWalletBackupTextField": "Mnemonic",
+    "createWalletBackupTextLast": "WARNING! Keep the mnemonic in a safe place away from the Internet. Do not share and store mnemonics in a networked environment, such as emails, photo albums, cloud disks, social applications, etc.",
+    "createWalletBackupBtnStart": "Verify",
+    "createWalletBackupBtnCopy": "Copy to clipboard",
+
+    "createWalletBackupVerifyTitle": "Verify mnemonic",
+    "createWalletBackupVerifyDescription": "Please click the mnemonics in order to confirm that you are backing up. Click on the word above to cancel and then select again",
+    "createWalletBackupVerifyError": "Incorrect mnemonic",
+
+    "walletModifyNameLabel": "Update account name",
+    "walletModifyExport": "Export private key",
+    "walletModifyDelete": "Delete",
+    "walletModifyDeleteConfirm": "Confirm to delete this account?",
+    "walletModifyDeleteSuccess": "Delete success",
+
+    "securityConfigDescription": "You have not set a secure password.\nA secure password will be required when you pay, transfer, or export your wallet",
+    "securityConfigDescriptionSuccess": "Your assets is protected",
+    "securityConfigSetButton": "Setup/Update password",
+
+    "securityExportPrivateWarning": "WARNING! Obtaining the private key means obtaining all the assets in your wallet. Please keep your private key safe, and customer service will not ask for your private key in any way.",
+    "securityPasswordNotSet": "You have not set a password, please set a password before exporting",
+    "securityPasswordInput": "Please enter password",
+    "securityPasswordOldInput": "Please enter the old password",
+    "securityPasswordNewInput": "Please enter the new password",
+    "securityPasswordRepeatNewInput": "Please repeat the new password",
+    "securityPasswordNotEquals": "The two entered passwords do not match",
+    "securityPasswordErrorOld": "The original password is wrong",
+
+    "btnCopy" : "Copy",
+    "msgCopySuccess" : "Data copied",
+
+    "addChainName": "Chain Name (Required)",
+    "addChainRPC": "Chain RPC URL  (Required)",
+    "addChainID": "Chain ID  (Required)",
+    "addChainCurrencySymbol": "Currency Symbol (Optional)",
+    "addChainExplorer": "Explorer (Optional)",
+
+    "addChainNameRequired": "Chain Name is required",
+    "addChainRPCRequired": "RPC URL is required",
+    "addChainIDRequired": "Chain id is required",
+    "addChainSuccess": "New chain added",
+
+    "btnSave" : "Save",
+    "btnAdd": "Add",
+    "btnUpdate" : "Update",
+    "btnDelete": "Delete",
+    "btnConfirm" : "Confirm",
+    "btnCancel" : "Abort",
+
+    "dialogTitle": "Notice",
+    "dialogConfirm": "Confirm",
+    "dialogAbort": "Abort",
+
+    "nftMyIdentityEmpty": "Create Account...",
+    "nftWithdrawTitle": "Withdraw",
+    "nftWithdrawSendTx": "Send transaction",
+    "nftWithdrawSuccess": "Withdraw success",
+    "nftWithdrawSendTxConfirm":"Confirm to withdraw?",
+    "nftWithdrawERRORETInsufficient": "Insufficient ET balance",
+    "nftWithdrawGasInsufficient": "Insufficient balance",
+
+    "nftWithdrawToAddressLabel": "To address",
+    "nftWithdrawToAddressLabelError": "Invalid address",
+    "nftWithdrawWalletEmpty": "Account not found",
+    "nftWithdrawWalletLabel": "My account",
+    "nftWithdrawAmountLabel": "Amount",
+    "nftWithdrawGasFeeLabel": "Gas fee",
+    
+    "scanCancel" : "Cancel",
+    "scanFlashOn": "Flash on",
+    "scanFlashOff": "Flash off",
+
+    "invalidAddressFormat": "Invalid address format",
+    "invalidNameRequired": "Name is required",
+
+    "contactsNameLabel": "Name",
+    "contactsAddressLabel": "Address",
+    "contactsAddSuccess": "Contacts add success",
+
+    "activeBalance": "Balance",
+    "gasSelectorCustom": "Custom",
+    "gasSelectorGasLimit": "Gas limit",
+    "gasSelectorGasPrice" :"Gas price",
+    "gasFee": "Gas",
+    "gasInfomation": "Gas price specifies the unit price you are willing to pay per unit of Gas, and Gas quantity refers to the largest unit of fuel you are willing to spend",
+
+    "labelBalance": "Balance",
+
+
+    "pageTitleChannel": "NFT Market",
+    "pageChannelStatItems" : "ITEMS",
+    "pageChannelGmv": "TOTAL",
+    "pageChannelMinPrice": "MIN",
+    "pageChannelMaxPrice": "MAX",
+
+    "pageChannelTab1": "LATEST",
+    "pageChannelTab2": "HOT",
+    "pageChannelTab3": "DESC Price",
+    "pageChannelTab4": "ASC Price",
+    "pageChannelTab5": "DUE",
+
+    "toastNomore": "No more data",
+
+    "nftDetailStatusInit": "Initialize",
+    "nftDetailStatusAvaliable": "Auction",
+    "nftDetailStatusLocked": "Locked",
+    "nftDetailExpireLabel": "Expire after",
+
+    "nftDetailLabelTradeTimes": "Trade count",
+    "nftDetailLabelTradeGMV": "Amount",
+    "nftDetailLabelContractAddress":"Contract",
+    "nftDetailLabelTokenId": "Token ID",
+
+
+    "nftDetailLabelCpOwner": "COPERRIGHT",
+    "nftDetailLabelHolder": "HOLDER",
+    "nftDetailNFT111": "This transaction follows the NFT111 protocol",
+
+    "nftDetailStep1": "Auction",
+    "nftDetailStep2"  :"Bid x1.11",
+    "nftDetailStep3":"48 hours expired",
+    "nftDetailStep4": "Locked",
+
+    "nftDetailBtnOperation": "Operation",
+    "nftDetailBtnBuy": "Auction",
+
+    "nftDetailNFTSummaryTitle": "Summary",
+    "nftDetailNFTPlatformNotice": "NOTICE",
+    "nftDetailLabelCurrentPrice": "Price",
+    "nftDetailNFTPlatformNoticeContent": "1. NFT digital collections are generally virtual digital goods, not physical objects, unless they are specially stated as delivery coupons or gifts. Once this product is sold, it cannot be returned.\n2. The copyright of the digital collection is owned by the publisher or the original creator. Unless the copyright is obtained separately, the user shall not use the digital collection for any commercial purpose.\n3. The introduction and qualification documents of this product are provided by the issuer, and the issuer is responsible for the relevant content and copyright.",
+
+    "nftAuctionPageTradeOrderLabel" :"Ranking",
+    "nftAuctionPageTradeHistoryLabel": "History",
+    "btnRefresh": "Refresh",
+    "labelDealPrice": "Price",
+    "labelDealTrader" : "Trader",
+    "labelDealTime": "Timestamp",
+    "msgRefreshSuccess": "Refreshing",
+
+    
+
+    "nftPayTitle": "NFT Pay",
+    "nftPayTipLabel": "eNFT Network",
+    "nftPayOfferLabel": "My offer",
+    "nftPayOfferBalance": "Balance",
+    "nftPayOfferLabelNotify": "Must more then ",
+    "nftPayOfferLabelNotify1": "x 1.11",
+    "nftPayOfferLabelToPay": "Pay",
+    "nftPayConfirm": "Are you sure to buy this NFT?",
+
+
+    "nftPayLog1" : "Checking allowance...",
+    "nftPayLog2":"Approve token...",
+    "nftPayLog3" : "Approved, bidding...",
+    "nftPayLog4" : "Transaction success",
+    "nftPayLog5" : "Transaction failed",
+
+    "newsTabQuickView": "News",
+    "newsTabActivity":"Activity",
+    "newsTabNotice": "Notice",
+    "newsTabHelp": "Help",
+
+    "walletPageTransfer": "Transfer",
+    "walletPageCollect": "Collect",
+    "walletPageScan": "Scan",
+    "walletPageCross" :"Cross",
+
+    "collectPageTitle": "Collect",
+    "collectPageLabel1": "Collect",
+    "collectPageLable2": "Scan QR Code to transfer",
+    "collectPageLabel3": "My account is ",
+    "collectPageCpBtn": "Copy to clipboard",
+
+    "transferPageTitle": "Transfer",
+    "transferPageLabelTo": "To",
+    "transferPagePlaceholderTo": "Press to copy from clipboard",
+
+    "transferPageLabelChain": "Chain",
+    "transferPageLabelChainNotFound": "Chain not found",
+
+    "transferPageLabelToken": "Token",
+    "transferPageLabelTokenNotFound": "Token not found",
+
+    "transferPageLabelAmount": "Amount",
+    "transferPageLabelAmoountPlaceholder": "Please input the amount you want to transfer",
+
+    "doSend" : "Send",
+
+    "transferPageQuestion": "Do you want transfer token token to ",
+
+    "transferResultLabel1" : "Hash",
+    "transferResultLabel2" : "Amount",
+    "transferResultLabel3" : "From",
+    "transferResultLabel4" : "To",
+    "transferResultLabel5" : "Token ID",
+    "transferResultFee": "Gas",
+    "transferResultBlockNumber": "Block",
+    "transferResultConfirmTime": "Confirm time",
+
+    "msgSuccess": "Success",
+    "msgWaiting": "Pending...",
+    "msgFailed": "Failed",
+
+    "gasSelectorSlow": "Slow",
+    "gasSelectorNormal" :"Normal",
+    "gasSelectorFast": "Fast",
+
+    "nftAuctionTransfer": "Transfer",
+    "nftAuctionReauction" :"Re-Auction",
+    "nftAuctionCheckApprove" :"Have approved to NFT111",
+    "nftAuctionOperationNotPromit": "You are not the owner of this NFT",
+
+    "reAuctionTitle": "Auction",
+    "reAuctionAsk": "Price",
+    "reAuctionBalance": "Balance",
+    "reAuctionServiceFee": "Service fee",
+    "reAuctionProfitWallet": "Profit address",
+    "reAuctionSummary": "After authorization, your NFT will be circulated in the market according to the NFT111 protocol rules:\n1. Anyone can bid no less than 1.11 times the current price to force the transfer of NFT ownership.\n2. For each transaction, 95% belongs to the holder, 3% belongs to the copyright owner, 1% is the transaction fee, and 1% is distributed to the historical traders.\n3. Timeout lock: After there is no transaction for a certain period of time, the auction status will be automatically locked.",
+
+    "stepLog1": "Checking allowence",
+    "stepLog2": "Allowence checked",
+    "stepLog3": "Approving token to NFT111",
+    "setpLog4": "NFT111 Trading...",
+    "stepLog5": "Transaction successed",
+    "stepLog6": "Transaction Failed",
+    "setpLog7": "Re-Approve to NFT111",
+    "setpLog8": "Auctioning..."
+}

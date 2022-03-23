@@ -1,0 +1,288 @@
+{
+    "@@locale": "zh_CN",
+    "appName": "NFT 钱包",
+    "tabWallet": "资产",
+    "tabMarket": "NFT",
+    "tabDAPP": "DAPP",
+    "tabFeed": "资讯",
+    "tabMine": "我的",
+
+    "nftCardTradeTime": "交易次数",
+    "nftCurrentPrice" : "当前价格",
+
+    "nftMarketAuctionTitle" :"正在热拍",
+    "nftWalletIdentity": "我的身份钱包",
+    "nftWalletTotalIncoming": "总收益",
+    "nftWalletTotalWithdraw": "待提现",
+    "nftWalletBtnWithdraw": "提现",
+
+    "mineMainItemAccount": "钱包管理",
+    "mineMainItemContacts": "联系人",
+    "mineMainItemNetwork": "链网络设置",
+    "mineMainItemLanguage": "选择语言",
+    "mineMainItemCurrency": "选择货币单位",
+    "mineMainItemSecurity": "安全和隐私设置",
+
+    "mineAccountPageEmpty": "还没有创建任何钱包",
+
+    "mineAccountAddPageTitle": "创建钱包",
+    "mineAccountAddPageTabCreate": "创建钱包",
+    "mineAccountAddPageTabImport": "导入钱包",
+
+    "mineAccountImportPageFromPrivateKey": "私钥",
+    "mineAccountImportPageFromMnemonic": "助记词",
+
+
+    "mineAccountImportPageFromPrivateKeyDescription": "使用私钥恢复您的钱包。密码用于对您本地存储的私钥进行加密。私钥、助记词、密码均不会向网络发送。",
+    "mineAccountImportPageFromPrivateKeyPlaceholder": "请填写您要导入的私钥，该数据不会向网络发送",
+
+    "mineAccountImportPageFromMnemonicDescription": "使用助记词恢复您的钱包。密码用于对您本地存储的私钥进行加密。私钥、助记词、密码均不会向网络发送。",
+    "mineAccountImportPageFromMnemonicPlaceholder": "请填写您要导入的助记词，空格分割，该数据不会向网络发送",
+    
+    "mineAccountBtnImport": "导入",
+    "mineAccountBtnCreate": "创建",
+
+    "mineAccountImportMnemonicError": "助记词格式错误，请检查后重试",
+    "mineAccountImportPrivateError": "私钥格式错误，请检查后重试",
+    "mineAccountImportNameError": "钱包名称有误",
+
+    "mineAccountImportMnemonicSuccess": "助记词导入成功",
+    "mineAccountImportPrivateSuccess": "私钥导入成功",
+    "mineAccountImportNameLabel": "钱包名称",
+
+    "mineAccountCreateNotice": "风险提示",
+    "mineAccountCreateNoticeBtn": "我已充分知晓上述规则和风险",
+    "mineAccountCreateNoticeContent": "1、我知晓并理解，所有eNFT内的资产都被保存在手机里，而非开发eNFT的公司。\n2、我知晓并理解，根据eNFT设计原理，eNFT不存储用户的钱包密码，忘记钱包密码只能使用您备份的助记词恢复钱包。如果我忘记了助记词，那么我将遗失所有eNFT内的资产。\n3、我知晓并理解，当此APP被删除或者在新设备商登录，或者忘记了钱包密码时，所有eNFT内的资产只能通过我备份的助记词找回并恢复。\n4、我知晓并理解，由于我本人没有妥善保存钱包密码和助记词，以及忘记钱包密码或助记词造成的资产损失，由我独自承担，与eNFT无关。\n5、我知晓并理解，eNFT的客服不会要求用户提供任何私钥或者助记词。如有客服索取密钥或者助记词，请提高警觉。",
+
+    "createWalletBackupWarning1": "获得助记词等于拥有钱包资产的所有权！",
+    "createWalletBackupWarningContent" :"助记词由英文字母组成，一旦丢失将无法找回。\n在本页的下一步，将对您备份的助记词进行验证，请按顺序抄写下来并务必妥善保管。",
+    "createWalletBackupTextField": "您的助记词",
+    "createWalletBackupTextLast": "切记！妥善保管助记词至远离互联网的安全地方。 请勿将助记词在联网的环境下分享和存储，比如邮件、相册、云盘、社交应用等。",
+    "createWalletBackupBtnStart": "开始验证",
+    "createWalletBackupBtnCopy": "复制助记词",
+
+    "createWalletBackupVerifyTitle": "验证助记词",
+    "createWalletBackupVerifyDescription": "请按顺序点击助记词，以确认您正在备份。点击上方的单词可以取消后重新选择",
+    "createWalletBackupVerifyError": "助记词错误，请确保抄录正确",
+
+    "walletModifyNameLabel": "修改钱包名称",
+    "walletModifyExport": "导出私钥",
+    "walletModifyDelete": "删除钱包",
+    "walletModifyDeleteConfirm": "确定删除这个钱包吗?",
+    "walletModifyDeleteSuccess": "钱包删除成功",
+
+    "securityConfigDescription": "您还没有设置安全密码\n安全密码在您支付、转账、导出钱包时会被要求提供",
+    "securityConfigSetButton": "设置/修改密码",
+
+    "securityPasswordInput": "请输入密码",
+    "securityPasswordNotSet": "您还未设置密码，请先设置密码后再导出",
+
+    "securityExportPrivateWarning": "警告！获得私钥意味着获得您钱包的所有资产，请密切保护好您的私钥安全，客服不会以任何方式索要您的私钥。",
+    "securityPasswordOldInput": "请输入原密码",
+    "securityPasswordNewInput": "请输入新密码",
+    "securityPasswordRepeatNewInput": "请重复输入新密码",
+    "securityPasswordNotEquals": "两次输入的密码不一致",
+    "securityPasswordErrorOld": "原密码错误",
+    "securityConfigDescriptionSuccess": "您已经设置了密码",
+
+    "btnCopy" : "复制",
+    "msgCopySuccess" : "复制成功",
+
+    "addChainName": "网络名称(必填)",
+    
+    "addChainRPC": "新增RPC URL(必填)",
+    "addChainID": "链 ID(必填)",
+    "addChainCurrencySymbol": "基础货币(必填)",
+    "addChainExplorer": "区块链浏览器(选填)",
+
+    "addChainNameRequired": "网络名称不能为空",
+    "addChainRPCRequired": "RPC URL字段不能为空",
+    "addChainIDRequired": "链ID不能为空",
+    "addChainSuccess": "添加成功",
+
+    "btnSave" : "保存",
+    "btnAdd": "添加",
+    "btnDelete": "删除",
+    "btnUpdate" : "更新",
+    "btnConfirm" : "确定",
+    "btnCancel" : "取消",
+
+    "nftMyIdentityEmpty": "创建钱包身份...",
+    "dialogTitle": "提示",
+    "dialogConfirm": "确认",
+    "dialogAbort": "我再想想",
+
+
+    "nftWithdrawTitle": "提现",
+    "nftWithdrawSendTx": "确认提现",
+    "nftWithdrawSendTxConfirm":"确定提现吗?",
+    "nftWithdrawERRORETInsufficient": "可提现余额不足",
+    "nftWithdrawGasInsufficient": "余额不足以支付矿工费",
+
+    "nftWithdrawToAddressLabel": "提现地址",
+    "nftWithdrawWalletEmpty": "您还没有本地钱包",
+    "nftWithdrawToAddressLabelError": "地址格式有误",
+    "nftWithdrawWalletLabel": "我的身份钱包",
+    "nftWithdrawAmountLabel": "提现总额",
+    "nftWithdrawGasFeeLabel": "矿工费",
+
+
+
+    "nftWithdrawSuccess": "提现成功",
+
+    "scanCancel" : "取消",
+    "scanFlashOn": "打开闪光灯",
+    "scanFlashOff": "关闭闪光灯",
+
+    "contactsNameLabel": "名称",
+    "contactsAddressLabel": "地址",
+
+    "invalidAddressFormat": "地址格式有误",
+    "invalidNameRequired": "名称不能为空",
+
+    "contactsAddSuccess": "联系人添加成功",
+
+    "activeBalance": "可用金额",
+    "gasSelectorCustom": "自定义",
+    "gasSelectorGasLimit": "Gas数量",
+    "gasSelectorGasPrice" :"Gas价格",
+    "gasFee": "矿工费",
+    "gasInfomation": "Gas价格规定了您愿意为每单位Gas支付的单价，Gas数量指您愿意花费的最大燃料单位",
+    "labelBalance": "余额",
+
+    "pageTitleChannel": "NFT市场",
+    "pageChannelStatItems" : "项目",
+    "pageChannelGmv": "交易额",
+    "pageChannelMinPrice": "地板价",
+    "pageChannelMaxPrice": "最高价",
+
+    "pageChannelTab1": "最新",
+    "pageChannelTab2": "人气",
+    "pageChannelTab3": "价格降序",
+    "pageChannelTab4": "价格升序",
+    "pageChannelTab5": "即将超时",
+
+    "toastNomore": "没有更多了",
+
+    "nftDetailStatusInit": "未开始",
+    "nftDetailStatusAvaliable": "拍卖中",
+    "nftDetailStatusLocked": "已结束",
+    "nftDetailExpireLabel": "距离超时锁定",
+    "nftDetailLabelTradeTimes": "交易次数",
+    "nftDetailLabelTradeGMV": "交易总额",
+    "nftDetailLabelContractAddress":"合约地址",
+    "nftDetailLabelTokenId": "链上标识",
+
+    "nftDetailLabelCpOwner": "版权所有人",
+    "nftDetailLabelHolder": "持有人",
+    "nftDetailNFT111": "本交易遵循NFT111协议",
+
+    "nftDetailStep1": "起拍",
+    "nftDetailStep2"  :"出价1.11倍抢拍",
+    "nftDetailStep3":"48小时无人竞价",
+    "nftDetailStep4": "超时锁定",
+
+    "nftDetailNFTSummaryTitle": "作品介绍",
+    "nftDetailNFTPlatformNotice": "平台声明",
+    "nftDetailLabelCurrentPrice": "当前价格",
+    "nftDetailBtnOperation": "操作",
+    "nftDetailBtnBuy": "我要参拍",
+
+    "nftDetailNFTPlatformNoticeContent": "1、NFT数字藏品为一般为虚拟数字商品，而非实物，除特别声明为提货券或有赠品。本商品一经售出，不支持退换。\n2、数字藏品的版权由发行方或原创者拥有，除另行取得版权外，用户不得将数字藏品用于任何商业用途。\n3、本商品的介绍和资质文件，由发行方提供，相关内容和版权由发行者方承担责任。",
+
+    "nftAuctionPageTradeOrderLabel" :"交易者排行",
+    "nftAuctionPageTradeHistoryLabel": "历史成交记录",
+    "btnRefresh": "刷新",
+    "labelDealPrice": "成交价",
+    "labelDealTrader" : "交易者",
+    "labelDealTime": "交易时间",
+
+    "msgRefreshSuccess": "刷新成功",
+
+
+    "nftPayTitle": "NFT Pay",
+    "nftPayTipLabel": "当前转账网络为eNFT主网",
+    "nftPayOfferLabel": "我的出价",
+    "nftPayOfferBalance": "余额",
+    "nftPayOfferLabelNotify": "出价不得低于",
+    "nftPayOfferLabelNotify1": "当前价格的1.11倍",
+    "nftPayOfferLabelToPay": "去支付",
+    "nftPayConfirm": "您确定购买这个NFT吗?",
+
+    "nftPayLog1" : "正在检查预授权...",
+    "nftPayLog2":"正在重新授权...",
+    "nftPayLog3" : "授权成功,正在出价...",
+    "nftPayLog4" : "恭喜您,交易成功",
+    "nftPayLog5" : "交易失败",
+
+    "newsTabQuickView": "快讯",
+    "newsTabActivity":"动态",
+    "newsTabNotice": "公告",
+    "newsTabHelp": "帮助中心",
+
+    "walletPageTransfer": "转账",
+    "walletPageCollect": "收款",
+    "walletPageScan": "扫码",
+    "walletPageCross" :"跨链",
+
+    "collectPageTitle": "收取",
+    "collectPageLabel1": "收取",
+    "collectPageLable2": "扫二维码向我转账",
+    "collectPageLabel3": "地址",
+    "collectPageCpBtn": "复制地址",
+
+    "transferPageTitle": "转账",
+    "transferPageLabelTo": "转出地址",
+    "transferPagePlaceholderTo": "长按从剪贴板复制",
+
+    "transferPageLabelChain": "公链",
+    "transferPageLabelChainNotFound": "公链未找到",
+
+    "transferPageLabelToken": "Token",
+    "transferPageLabelTokenNotFound": "Token未找到",
+
+    "transferPageLabelAmount": "总额",
+    "transferPageLabelAmoountPlaceholder": "请输入转出总额",
+
+    "doSend" : "发送",
+
+    "transferPageQuestion": "您是否要转账给 ",
+    "transferResultLabel1" : "哈希",
+    "transferResultLabel2" : "总额",
+    "transferResultLabel3" : "发送方",
+    "transferResultLabel4" : "接收方",
+    "transferResultLabel5" : "Token ID",
+    "transferResultFee": "GAS",
+    "transferResultBlockNumber": "区块",
+    "transferResultConfirmTime": "时间",
+
+    "msgSuccess": "成功",
+    "msgWaiting": "等待",
+    "msgFailed": "失败",
+
+    "gasSelectorSlow": "较慢",
+    "gasSelectorNormal" :"适中",
+    "gasSelectorFast": "较快",
+
+    "nftAuctionTransfer": "转出",
+    "nftAuctionReauction" :"重新拍卖",
+    "nftAuctionCheckApprove" :"是否已批准NFT111",
+    "nftAuctionOperationNotPromit" : "你不是这个NFT的所有者",
+
+    "reAuctionTitle": "拍卖",
+    "reAuctionAsk": "起拍价格",
+    "reAuctionBalance": "地址余额",
+    "reAuctionServiceFee": "需要支付的服务费",
+    "reAuctionProfitWallet": "收益钱包地址",
+    "reAuctionSummary": "授权后，你的NFT将以NFT111协议规则在市场上流通\n1、任何人都可以不低于当前价1.11倍的出价将NFT所有权强制转移。\n2、每次成交时，95%归持有者，3%归版权所有者，1%为交易费，1%分给历史交易者。\n3、超时锁定：在无交易超过一定时间后，将自动锁定拍卖状态。",
+
+    "stepLog1": "正在检查预授权",
+    "stepLog2": "预授权检查通过",
+    "stepLog3": "正在对交易所需Token进行重新授权",
+    "setpLog4": "正在发起NFT111交易",
+    "stepLog5": "交易成功",
+    "stepLog6": "交易失败",
+    "setpLog7": "正在重新授权NFT111",
+    "setpLog8": "正在发起拍卖"
+
+}
