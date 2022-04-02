@@ -1,0 +1,10 @@
+{
+    "hot" :  [
+        {
+            "icon": "",
+            "name": "ENDAO",
+            "link": "#endao",
+            "chainId" :"56"
+        }
+    ]
+}
