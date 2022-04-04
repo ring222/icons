@@ -3,9 +3,15 @@
     "hot" :  [
         {
             "icon": "",
+            "name": "ENMART",
+            "link": "#enmart",
+            "chainId" :202008201
+        },
+        {
+            "icon": "",
             "name": "ENDAO",
             "link": "#endao",
-            "chainId" :"56"
+            "chainId" :56
         }
     ]
 }
