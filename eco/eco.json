@@ -7,13 +7,13 @@
     ],
     "hot" :  [
         {
-            "icon": "",
+            "icon": "https://github.com/ring222/icons/raw/main/eco/assets/icons/default.png",
             "name": "ENMART",
             "link": "#enmart",
             "chainId" :202008201
         },
         {
-            "icon": "",
+            "icon": "https://github.com/ring222/icons/raw/main/eco/assets/icons/default.png",
             "name": "ENDAO",
             "link": "#endao",
             "chainId" :56
