@@ -1,8 +1,8 @@
 {
     "banners" : [
         {
-            'image': 'https://github.com/ring222/icons/raw/main/eco/assets/images/banner1.png',
-            'title: ''
+            "image": "https://github.com/ring222/icons/raw/main/eco/assets/images/banner1.png",
+            "title": ""
         }
     ],
     "hot" :  [
