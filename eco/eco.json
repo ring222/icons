@@ -23,12 +23,6 @@
             "name": "ENEX",
             "link": "#enex",
             "chainId" :56
-        },
-        {
-            "icon": "https://github.com/ring222/icons/raw/main/eco/assets/icons/default.png",
-            "name": "Mining",
-            "link": "#endao",
-            "chainId" :56
         }
     ]
 }
