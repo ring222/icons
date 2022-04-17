@@ -1,28 +1,37 @@
 {
     "banners" : [
         {
-            "image": "https://github.com/ring222/icons/raw/main/eco/assets/images/banner1.png",
+            "image": "https://dataseed.enex.fi/eco/assets/images/banner1.png",
             "title": ""
         }
     ],
     "hot" :  [
         {
-            "icon": "https://github.com/ring222/icons/raw/main/eco/assets/icons/default.png",
+            "icon": "https://dataseed.enex.fi/eco/assets/icons/enmart.png",
             "name": "ENMART",
             "link": "#enmart",
-            "chainId" :202008201
+            "chainId" :202008201,
+            "online": true,
+            "chainName": "eNFT",
+            "summary": ""
         },
         {
             "icon": "https://github.com/ring222/icons/raw/main/eco/assets/icons/default.png",
             "name": "ENDAO",
             "link": "#endao",
-            "chainId" :56
+            "chainId" :56,
+            "online": true,
+            "chainName": "BSC",
+            "summary": ""
         },
         {
-            "icon": "https://github.com/ring222/icons/raw/main/eco/assets/icons/default.png",
+            "icon": "https://dataseed.enex.fi/eco/assets/icons/enex.png",
             "name": "ENEX",
             "link": "#enex",
-            "chainId" :56
+            "chainId" :56,
+            "online": false,
+            "chainName": "BSC",
+            "summary": ""
         }
     ]
 }
