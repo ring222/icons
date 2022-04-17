@@ -13,7 +13,7 @@
             "chainId" :202008201,
             "online": true,
             "chainName": "eNFT",
-            "summary": ""
+            "summary": "Introduce of ENMART"
         },
         {
             "icon": "https://github.com/ring222/icons/raw/main/eco/assets/icons/default.png",
@@ -22,7 +22,7 @@
             "chainId" :56,
             "online": true,
             "chainName": "BSC",
-            "summary": ""
+            "summary": "Introduct of ENDAO"
         },
         {
             "icon": "https://dataseed.enex.fi/eco/assets/icons/enex.png",
@@ -31,7 +31,7 @@
             "chainId" :56,
             "online": false,
             "chainName": "BSC",
-            "summary": ""
+            "summary": "Introduct of ENEX"
         }
     ]
 }
