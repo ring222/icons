@@ -1,7 +1,12 @@
 {
     "banners" : [
         {
-            "image": "https://dataseed.enex.fi/eco/assets/images/banner1.png",
+            "image": "https://dataseed.enex.fi/eco/assets/images/banner-1.png",
+            "title": ""
+        },
+        
+        {
+            "image": "https://dataseed.enex.fi/eco/assets/images/banner-2.png",
             "title": ""
         }
     ],
