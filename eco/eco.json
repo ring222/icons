@@ -8,30 +8,30 @@
     "hot" :  [
         {
             "icon": "https://dataseed.enex.fi/eco/assets/icons/enmart.png",
-            "name": "ENMART",
+            "name": "ENMart",
             "link": "#enmart",
             "chainId" :202008201,
             "online": true,
             "chainName": "eNFT",
-            "summary": "Introduce of ENMART"
+            "summary": "基于NFT111协议的NFT发行平台"
         },
         {
             "icon": "https://github.com/ring222/icons/raw/main/eco/assets/icons/default.png",
-            "name": "ENDAO",
+            "name": "ENEX-DAO",
             "link": "#endao",
             "chainId" :56,
             "online": true,
             "chainName": "BSC",
-            "summary": "Introduct of ENDAO"
+            "summary": "抵押ENFT以获得长期收益"
         },
         {
             "icon": "https://dataseed.enex.fi/eco/assets/icons/enex.png",
-            "name": "ENEX",
+            "name": "ENEX-Swap",
             "link": "#enex",
             "chainId" :56,
             "online": false,
             "chainName": "BSC",
-            "summary": "Introduct of ENEX"
+            "summary": "即将上线"
         }
     ]
 }
