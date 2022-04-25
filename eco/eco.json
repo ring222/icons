@@ -11,15 +11,7 @@
         }
     ],
     "hot" :  [
-        {
-            "icon": "https://dataseed.enex.fi/eco/assets/icons/enmart.png",
-            "name": "ENMart",
-            "link": "#enmart",
-            "chainId" :202008201,
-            "online": true,
-            "chainName": "eNFT",
-            "summary": "基于NFT111协议的NFT发行平台"
-        },
+        
         {
             "icon": "https://dataseed.enex.fi/eco/assets/icons/endao.png",
             "name": "ENEX-DAO",
@@ -28,6 +20,15 @@
             "online": true,
             "chainName": "BSC",
             "summary": "抵押ENFT以获得长期收益"
+        },
+        {
+            "icon": "https://dataseed.enex.fi/eco/assets/icons/enmart.png",
+            "name": "ENMart",
+            "link": "#enmart",
+            "chainId" :202008201,
+            "online": true,
+            "chainName": "eNFT",
+            "summary": "基于NFT111协议的NFT发行平台"
         },
         {
             "icon": "https://dataseed.enex.fi/eco/assets/icons/enex.png",
