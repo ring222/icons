@@ -31,6 +31,24 @@
             "summary": "基于NFT111协议的NFT发行平台"
         },
         {
+            "icon": "https://dataseed.enex.fi/eco/assets/icons/braves.jpg",
+            "name": "Braves",
+            "link": "https://braves.one/",
+            "chainId" :56,
+            "online": false,
+            "chainName": "BSC",
+            "summary": "即将上线"
+        },
+        {
+            "icon": "https://dataseed.enex.fi/eco/assets/icons/ino111.png",
+            "name": "INO111",
+            "link": "https://nft.ino111.com/#/home",
+            "chainId" :56,
+            "online": false,
+            "chainName": "BSC",
+            "summary": "即将上线"
+        },
+        {
             "icon": "https://dataseed.enex.fi/eco/assets/icons/enex.png",
             "name": "ENEX-Swap",
             "link": "#enex",
